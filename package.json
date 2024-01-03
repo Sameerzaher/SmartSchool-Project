@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "expo": "^49.0.21",
+    "metro-core": "^0.80.2",
+    "yarn": "^1.22.21"
+  },
+  "devDependencies": {
+    "metro": "^0.80.2"
+  }
+}
